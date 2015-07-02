@@ -882,10 +882,10 @@ a[id^="thread_options"]>strong {
     background: url(http://i.imgur.com/kUfuaZK.png) no-repeat left center !important;
 }
 
-/**
+
 .star_rating, .star_rating li a:hover, .current_rating, .star_rating li a {
-    background: repeat-x url('http://i.imgur.com/HfNTwYD.png') !important;
-} **/
+    background: url('http://i.imgur.com/HfNTwYD.png') left -1000px repeat-x !important;
+}
 
 div[style="padding: 5px 2px;"] {
     padding-top: 35px !important;
